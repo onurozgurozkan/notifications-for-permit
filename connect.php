@@ -1,17 +1,25 @@
 <?php
     class connect{
-        public $conn;
+
+        protected $conn;
+        protected $servername = "localhost";
+        protected $username = "root";
+        protected $password = "";
+        protected $dbname = "notifications";
+
         public function __construct(){
-            $servername = "localhost";
-            $username = "root";
-            $password = "";
-            $dbname = "odev3";
-            $this->conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+            $this->conn = new PDO("mysql:host=$this->servername;dbname=$this->dbname", $this->username, $this->password);
         }
 
+        //If number previously attached, this method makes updating
         public function insert($number, $answer){
-            $sql = "INSERT INTO bildirim_alma_izinleri (numara, cevap) VALUES (".$number.",".$answer.")";
-            $this->conn->exec($sql);
+            $sql = "INSERT INTO notification_for_permit (number, answer) VALUES (".$number.",".$answer.")";
+            if (!$this->conn->exec(@sql)) {
+                $sql = "UPDATE notification_for_permit SET answer=".$answer." WHERE number=".$number;
+                $this->conn->exec($sql);
+            }
         }
+
+
+
     }
-?>
