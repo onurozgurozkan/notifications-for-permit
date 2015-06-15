@@ -1,4 +1,5 @@
 <?php
+    include('constants.php');
     include('connect.php');
 
     $step = isset($_POST['step']) ? $_POST['step'] : 1;
@@ -12,7 +13,7 @@
                 "seq" => [
                     [
                         "action" => "play",
-                        "args" => ["url" => "http://4541f91d.ngrok.io/odev3/sounds/welcome.mp3"]
+                        "args" => ["url" => ".$ngrok$soundWelcome."]
                     ],
                     [
                         "action" => "gather",
@@ -20,8 +21,8 @@
                             "min_digits" => 1,
                             "max_digits" => 1,
                             "max_attempts" => 3,
-                            "ask" => "http://4541f91d.ngrok.io/odev3/sounds/decralation_question.mp3",
-                            "play_on_error"  => "http://4541f91d.ngrok.io/odev3/sounds/wrong_keying.mp3",
+                            "ask" => ".$ngrok$soundDecralation.",
+                            "play_on_error"  => ".$ngrok$soundWrongKey.",
                             "variable_name" => "returnVal"
                         ]
                     ]
@@ -38,7 +39,7 @@
                 "seq" => [
                     [
                         "action" => "play",
-                        "args" => ["url" => "http://4541f91d.ngrok.io/odev3/sounds/closing.mp3"]
+                        "args" => ["url" => ".$ngrok$soundClosing."]
                     ],
                     [
                         "action" => "dial",
@@ -51,7 +52,7 @@
             header('Content-Type: application/json');
             echo json_encode($answer);
 
-            $connect = new connect();
+            $connect = new connect($servername, $dbname, $username, $password);
             $connect->insert($caller, $returnVal);
             break;
 

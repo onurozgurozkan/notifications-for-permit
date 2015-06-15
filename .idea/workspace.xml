@@ -28,8 +28,28 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.785714" vertical-offset="19" max-vertical-offset="1139">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state vertical-scroll-proportion="-24.214285" vertical-offset="240" max-vertical-offset="1156">
+              <caret line="54" column="79" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="constants.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constants.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="357">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dnm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="238">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -38,26 +58,26 @@
       <file leaf-file-name="connect.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/connect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21288015" vertical-offset="0" max-vertical-offset="559">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.24329159" vertical-offset="0" max-vertical-offset="559">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <marker date="1434407103846" expanded="true" signature="524:585" placeholder="INSERT INTO ..." />
-                <marker date="1434407103846" expanded="true" signature="524:597" placeholder="INSERT INTO ..." />
-                <marker date="1434407103846" expanded="true" signature="524:609" placeholder="INSERT INTO ..." />
-                <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:722" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:740" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:747" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:750" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:774" placeholder="UPDATE notif..." />
-                <marker date="1434407103846" expanded="true" signature="680:825" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="380:441" placeholder="INSERT INTO ..." />
+                <marker date="1434410704420" expanded="true" signature="380:453" placeholder="INSERT INTO ..." />
+                <marker date="1434410704420" expanded="true" signature="380:465" placeholder="INSERT INTO ..." />
+                <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:578" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:596" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:603" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:606" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:630" placeholder="UPDATE notif..." />
+                <marker date="1434410704420" expanded="true" signature="536:681" placeholder="UPDATE notif..." />
               </folding>
             </state>
           </provider>
@@ -73,9 +93,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/constans.php" />
+        <option value="$PROJECT_DIR$/connect.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/dnm.php" />
-        <option value="$PROJECT_DIR$/connect.php" />
+        <option value="$PROJECT_DIR$/constants.php" />
       </list>
     </option>
   </component>
@@ -127,20 +149,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="odev3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="odev3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="odev3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sounds" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,6 +213,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -214,7 +223,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -259,65 +267,73 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="374">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <marker date="1434407103846" expanded="true" signature="524:585" placeholder="INSERT INTO ..." />
-            <marker date="1434407103846" expanded="true" signature="524:597" placeholder="INSERT INTO ..." />
-            <marker date="1434407103846" expanded="true" signature="524:609" placeholder="INSERT INTO ..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:722" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:740" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:747" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:750" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:774" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:825" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="380:441" placeholder="INSERT INTO ..." />
+            <marker date="1434410704420" expanded="true" signature="380:453" placeholder="INSERT INTO ..." />
+            <marker date="1434410704420" expanded="true" signature="380:465" placeholder="INSERT INTO ..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:578" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:596" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:603" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:606" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:630" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:681" placeholder="UPDATE notif..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.785714" vertical-offset="19" max-vertical-offset="1139">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state vertical-scroll-proportion="-24.214285" vertical-offset="240" max-vertical-offset="1156">
+          <caret line="54" column="79" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="357">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dnm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09090909" vertical-offset="0" max-vertical-offset="561">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="238">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21288015" vertical-offset="0" max-vertical-offset="559">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.24329159" vertical-offset="0" max-vertical-offset="559">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <marker date="1434407103846" expanded="true" signature="524:585" placeholder="INSERT INTO ..." />
-            <marker date="1434407103846" expanded="true" signature="524:597" placeholder="INSERT INTO ..." />
-            <marker date="1434407103846" expanded="true" signature="524:609" placeholder="INSERT INTO ..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:687" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:722" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:740" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:747" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:750" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:774" placeholder="UPDATE notif..." />
-            <marker date="1434407103846" expanded="true" signature="680:825" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="380:441" placeholder="INSERT INTO ..." />
+            <marker date="1434410704420" expanded="true" signature="380:453" placeholder="INSERT INTO ..." />
+            <marker date="1434410704420" expanded="true" signature="380:465" placeholder="INSERT INTO ..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:543" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:578" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:596" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:603" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:606" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:630" placeholder="UPDATE notif..." />
+            <marker date="1434410704420" expanded="true" signature="536:681" placeholder="UPDATE notif..." />
           </folding>
         </state>
       </provider>
